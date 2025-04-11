@@ -28,7 +28,7 @@ author:
   bio              : "Master student from Chongqing University"
   location         : "Chongqing, China"
   employer         : "Chongqing University"
-  uri              : # URL
+  # uri              : # URL
   email            : "202314131185@stu.cqu.edu.cn" 
 
   # Academic websites
